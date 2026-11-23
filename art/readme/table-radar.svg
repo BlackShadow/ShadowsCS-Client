@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 182" width="880" height="182" role="img">
+  <style>
+    text { font-family: Verdana, Tahoma, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #d8ded3; }
+    .n { fill: #d8ded3; }
+    .b { fill: #f2f5ee; font-weight: bold; }
+    .c { fill: #c4b550; font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', Menlo, monospace; font-size: 13px; }
+    .h { fill: #c4b550; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="181" fill="#4c5844" stroke="#282e22"/>
+  <path d="M1.5 180.5 V1.5 H878.5" fill="none" stroke="#889180"/>
+  <rect x="5.5" y="5.5" width="869" height="171" fill="#3e4637" stroke="#282e22"/>
+  <path d="M874.5 6 V176.5 H6" fill="none" stroke="#889180" stroke-opacity="0.55"/>
+  <rect x="6" y="88" width="868" height="54" fill="#434c3b"/>
+  <rect x="6" y="88" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="142" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="6" width="868" height="28" fill="#4c5844"/>
+  <rect x="6" y="33" width="868" height="1" fill="#282e22"/>
+  <text class="h" x="18" y="24">OPTION</text>
+  <rect x="245" y="9" width="1" height="21" fill="#282e22"/><rect x="246" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="246" y="34" width="1" height="142" fill="#4c5844" fill-opacity="0.7"/>
+  <text class="h" x="258" y="24">WHAT IT DOES</text>
+  <text xml:space="preserve" x="18" y="55"><tspan class="b">Enhanced</tspan><tspan class="n"> </tspan><tspan class="b">radar</tspan></text>
+  <text xml:space="preserve" x="258" y="55"><tspan class="n">A square radar that shows the map's overview under the dots. </tspan><tspan class="c">Classic radar</tspan></text>
+  <text xml:space="preserve" x="258" y="75"><tspan class="n">brings the round one back.</tspan></text>
+  <text xml:space="preserve" x="18" y="109"><tspan class="b">Size</tspan><tspan class="n"> </tspan><tspan class="b">/</tspan><tspan class="n"> </tspan><tspan class="b">Range</tspan><tspan class="n"> </tspan><tspan class="b">/</tspan><tspan class="n"> </tspan><tspan class="b">Map</tspan></text>
+  <text xml:space="preserve" x="18" y="129"><tspan class="b">opacity</tspan></text>
+  <text xml:space="preserve" x="258" y="109"><tspan class="n">Four sizes, four ranges (how much of the map fits) and how solid the map</tspan></text>
+  <text xml:space="preserve" x="258" y="129"><tspan class="n">picture is.</tspan></text>
+  <text xml:space="preserve" x="18" y="163"><tspan class="b">Radar</tspan><tspan class="n"> </tspan><tspan class="b">rotation</tspan></text>
+  <text xml:space="preserve" x="258" y="163"><tspan class="n">Turns the map with your view, or keeps north up.</tspan></text>
+</svg>

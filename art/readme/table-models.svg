@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 256" width="880" height="256" role="img">
+  <style>
+    text { font-family: Verdana, Tahoma, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #d8ded3; }
+    .n { fill: #d8ded3; }
+    .b { fill: #f2f5ee; font-weight: bold; }
+    .c { fill: #c4b550; font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', Menlo, monospace; font-size: 13px; }
+    .h { fill: #c4b550; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="255" fill="#4c5844" stroke="#282e22"/>
+  <path d="M1.5 254.5 V1.5 H878.5" fill="none" stroke="#889180"/>
+  <rect x="5.5" y="5.5" width="869" height="245" fill="#3e4637" stroke="#282e22"/>
+  <path d="M874.5 6 V250.5 H6" fill="none" stroke="#889180" stroke-opacity="0.55"/>
+  <rect x="6" y="88" width="868" height="54" fill="#434c3b"/>
+  <rect x="6" y="88" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="142" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="196" width="868" height="54" fill="#434c3b"/>
+  <rect x="6" y="196" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="6" width="868" height="28" fill="#4c5844"/>
+  <rect x="6" y="33" width="868" height="1" fill="#282e22"/>
+  <text class="h" x="18" y="24">OPTION</text>
+  <rect x="224.20000000000002" y="9" width="1" height="21" fill="#282e22"/><rect x="225.20000000000002" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="225.20000000000002" y="34" width="1" height="216" fill="#4c5844" fill-opacity="0.7"/>
+  <text class="h" x="237.20000000000002" y="24">WHAT IT DOES</text>
+  <text xml:space="preserve" x="18" y="55"><tspan class="b">Solid</tspan><tspan class="n"> </tspan><tspan class="b">team</tspan><tspan class="n"> </tspan><tspan class="b">colors</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="55"><tspan class="n">Players, their weapons and bodies in one flat color per team. Pick the Terrorist, CT</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="75"><tspan class="n">and VIP colors, and a separate </tspan><tspan class="b">head</tspan><tspan class="n"> </tspan><tspan class="b">color</tspan><tspan class="n"> on top.</tspan></text>
+  <text xml:space="preserve" x="18" y="109"><tspan class="b">Players</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="109"><tspan class="c">Original</tspan><tspan class="n">, </tspan><tspan class="c">Retail</tspan><tspan class="n"> (the CS 1.0 player models) or </tspan><tspan class="c">Beta</tspan><tspan class="n"> (beta 6.1). All nine models in</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="129"><tspan class="n">each set.</tspan></text>
+  <text xml:space="preserve" x="18" y="163"><tspan class="b">Weapons</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="163"><tspan class="c">Original</tspan><tspan class="n">, </tspan><tspan class="c">Retail</tspan><tspan class="n"> (CS 1.5) or </tspan><tspan class="c">Beta</tspan><tspan class="n"> (beta 6.1), in first person, in other players' hands</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="183"><tspan class="n">and on the ground. A weapon a set never had keeps the game's model.</tspan></text>
+  <text xml:space="preserve" x="18" y="217"><tspan class="b">Override</tspan><tspan class="n"> </tspan><tspan class="b">server</tspan><tspan class="n"> </tspan><tspan class="b">models</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="217"><tspan class="n">Keeps your chosen player and weapon models when a server forces its own custom</tspan></text>
+  <text xml:space="preserve" x="237.20000000000002" y="237"><tspan class="n">ones.</tspan></text>
+</svg>

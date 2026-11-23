@@ -1,0 +1,2 @@
+1
+crosshair	3840	cs3840/crosshairs	96	0	96	96

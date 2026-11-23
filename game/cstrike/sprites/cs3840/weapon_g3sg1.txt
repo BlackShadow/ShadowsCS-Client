@@ -1,0 +1,6 @@
+5
+weapon	3840	cs3840/hud2_2	0	180	680	180
+weapon_s	3840	cs3840/hud5_2	0	180	680	180
+ammo	3840	cs3840/hud7_1	288	0	96	96
+crosshair	3840	cs3840/crosshairs	96	0	96	96
+autoaim	3840	cs3840/crosshairs	0	288	96	96

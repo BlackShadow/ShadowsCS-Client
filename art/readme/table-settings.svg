@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1092" width="880" height="1092" role="img">
+  <style>
+    text { font-family: Verdana, Tahoma, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #d8ded3; }
+    .n { fill: #d8ded3; }
+    .b { fill: #f2f5ee; font-weight: bold; }
+    .c { fill: #c4b550; font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', Menlo, monospace; font-size: 13px; }
+    .h { fill: #c4b550; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="1091" fill="#4c5844" stroke="#282e22"/>
+  <path d="M1.5 1090.5 V1.5 H878.5" fill="none" stroke="#889180"/>
+  <rect x="5.5" y="5.5" width="869" height="1081" fill="#3e4637" stroke="#282e22"/>
+  <path d="M874.5 6 V1086.5 H6" fill="none" stroke="#889180" stroke-opacity="0.55"/>
+  <rect x="6" y="68" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="68" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="102" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="156" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="156" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="190" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="224" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="224" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="258" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="292" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="292" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="326" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="380" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="380" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="414" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="448" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="448" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="482" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="516" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="516" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="550" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="584" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="584" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="618" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="672" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="672" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="706" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="760" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="760" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="794" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="828" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="828" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="862" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="916" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="916" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="950" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="984" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="984" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="1018" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="1052" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="1052" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="6" width="868" height="28" fill="#4c5844"/>
+  <rect x="6" y="33" width="868" height="1" fill="#282e22"/>
+  <text class="h" x="18" y="24">SETTING</text>
+  <rect x="335" y="9" width="1" height="21" fill="#282e22"/><rect x="336" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="336" y="34" width="1" height="1052" fill="#4c5844" fill-opacity="0.7"/>
+  <text class="h" x="348" y="24">DEFAULT</text>
+  <rect x="505" y="9" width="1" height="21" fill="#282e22"/><rect x="506" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="506" y="34" width="1" height="1052" fill="#4c5844" fill-opacity="0.7"/>
+  <text xml:space="preserve" x="18" y="55"><tspan class="c">cl_advanced</tspan></text>
+  <text xml:space="preserve" x="348" y="55"><tspan class="n">–</tspan></text>
+  <text xml:space="preserve" x="518" y="55"><tspan class="n">Opens the Advanced window</tspan></text>
+  <text xml:space="preserve" x="18" y="89"><tspan class="c">cl_teamcolors</tspan></text>
+  <text xml:space="preserve" x="348" y="89"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="89"><tspan class="n">Solid team colors</tspan></text>
+  <text xml:space="preserve" x="18" y="123"><tspan class="c">cl_teamcolor_t</tspan><tspan class="n"> / </tspan><tspan class="c">cl_teamcolor_ct</tspan><tspan class="n"> /</tspan></text>
+  <text xml:space="preserve" x="18" y="143"><tspan class="c">cl_teamcolor_vip</tspan></text>
+  <text xml:space="preserve" x="348" y="123"><tspan class="c">255 0 0</tspan><tspan class="n"> / </tspan><tspan class="c">0 0 255</tspan><tspan class="n"> /</tspan></text>
+  <text xml:space="preserve" x="348" y="143"><tspan class="c">255 255 0</tspan></text>
+  <text xml:space="preserve" x="518" y="123"><tspan class="n">Team colors, </tspan><tspan class="c">r g b</tspan></text>
+  <text xml:space="preserve" x="18" y="177"><tspan class="c">cl_headcolor</tspan></text>
+  <text xml:space="preserve" x="348" y="177"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="177"><tspan class="n">Head color, </tspan><tspan class="c">r g b</tspan><tspan class="n">, with solid team colors</tspan></text>
+  <text xml:space="preserve" x="18" y="211"><tspan class="c">cl_playermodels</tspan></text>
+  <text xml:space="preserve" x="348" y="211"><tspan class="c">original</tspan></text>
+  <text xml:space="preserve" x="518" y="211"><tspan class="c">original</tspan><tspan class="n">, </tspan><tspan class="c">retail</tspan><tspan class="n">, </tspan><tspan class="c">beta</tspan></text>
+  <text xml:space="preserve" x="18" y="245"><tspan class="c">cl_weaponmodels</tspan></text>
+  <text xml:space="preserve" x="348" y="245"><tspan class="c">original</tspan></text>
+  <text xml:space="preserve" x="518" y="245"><tspan class="c">original</tspan><tspan class="n">, </tspan><tspan class="c">retail</tspan><tspan class="n">, </tspan><tspan class="c">beta</tspan></text>
+  <text xml:space="preserve" x="18" y="279"><tspan class="c">cl_overridemodels</tspan></text>
+  <text xml:space="preserve" x="348" y="279"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="279"><tspan class="n">Override server models</tspan></text>
+  <text xml:space="preserve" x="18" y="313"><tspan class="c">cl_radar_square</tspan></text>
+  <text xml:space="preserve" x="348" y="313"><tspan class="c">1</tspan></text>
+  <text xml:space="preserve" x="518" y="313"><tspan class="n">Enhanced radar</tspan></text>
+  <text xml:space="preserve" x="18" y="347"><tspan class="c">cl_radar_size</tspan><tspan class="n"> / </tspan><tspan class="c">cl_radar_range</tspan><tspan class="n"> /</tspan></text>
+  <text xml:space="preserve" x="18" y="367"><tspan class="c">cl_radar_alpha</tspan><tspan class="n"> / </tspan><tspan class="c">cl_radar_rotate</tspan></text>
+  <text xml:space="preserve" x="348" y="347"><tspan class="c">150</tspan><tspan class="n"> / </tspan><tspan class="c">1000</tspan><tspan class="n"> / – / </tspan><tspan class="c">1</tspan></text>
+  <text xml:space="preserve" x="518" y="347"><tspan class="n">Enhanced radar's size, range, map opacity,</tspan></text>
+  <text xml:space="preserve" x="518" y="367"><tspan class="n">rotation</tspan></text>
+  <text xml:space="preserve" x="18" y="401"><tspan class="c">hud_color</tspan></text>
+  <text xml:space="preserve" x="348" y="401"><tspan class="n">–</tspan></text>
+  <text xml:space="preserve" x="518" y="401"><tspan class="c">r g b</tspan><tspan class="n">, </tspan><tspan class="c">rainbow</tspan><tspan class="n">, </tspan><tspan class="c">christmas</tspan><tspan class="n"> or </tspan><tspan class="c">dynamic</tspan></text>
+  <text xml:space="preserve" x="18" y="435"><tspan class="c">cl_menubackground</tspan></text>
+  <text xml:space="preserve" x="348" y="435"><tspan class="c">auto</tspan></text>
+  <text xml:space="preserve" x="518" y="435"><tspan class="c">auto</tspan><tspan class="n">, </tspan><tspan class="c">original</tspan><tspan class="n">, </tspan><tspan class="c">beta</tspan><tspan class="n">, </tspan><tspan class="c">retail</tspan></text>
+  <text xml:space="preserve" x="18" y="469"><tspan class="c">cl_fontstyle</tspan></text>
+  <text xml:space="preserve" x="348" y="469"><tspan class="c">original</tspan></text>
+  <text xml:space="preserve" x="518" y="469"><tspan class="c">original</tspan><tspan class="n">, </tspan><tspan class="c">won</tspan></text>
+  <text xml:space="preserve" x="18" y="503"><tspan class="c">cl_weather_type</tspan></text>
+  <text xml:space="preserve" x="348" y="503"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="503"><tspan class="c">1</tspan><tspan class="n"> rain, </tspan><tspan class="c">2</tspan><tspan class="n"> snow</tspan></text>
+  <text xml:space="preserve" x="18" y="537"><tspan class="c">cl_bobstyle</tspan></text>
+  <text xml:space="preserve" x="348" y="537"><tspan class="c">won</tspan></text>
+  <text xml:space="preserve" x="518" y="537"><tspan class="c">won</tspan><tspan class="n">, </tspan><tspan class="c">retail</tspan><tspan class="n">, </tspan><tspan class="c">source</tspan></text>
+  <text xml:space="preserve" x="18" y="571"><tspan class="c">cl_nosky</tspan></text>
+  <text xml:space="preserve" x="348" y="571"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="571"><tspan class="n">No sky</tspan></text>
+  <text xml:space="preserve" x="18" y="605"><tspan class="c">cl_stretch43</tspan></text>
+  <text xml:space="preserve" x="348" y="605"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="605"><tspan class="n">Stretched 4:3</tspan></text>
+  <text xml:space="preserve" x="18" y="639"><tspan class="c">cl_crosshair_length</tspan><tspan class="n"> / </tspan><tspan class="c">_thickness</tspan><tspan class="n"> / </tspan><tspan class="c">_gap</tspan><tspan class="n"> /</tspan></text>
+  <text xml:space="preserve" x="18" y="659"><tspan class="c">_outline</tspan><tspan class="n"> / </tspan><tspan class="c">_dot</tspan></text>
+  <text xml:space="preserve" x="348" y="639"><tspan class="c">0</tspan><tspan class="n"> / </tspan><tspan class="c">1</tspan><tspan class="n"> / </tspan><tspan class="c">0</tspan><tspan class="n"> / </tspan><tspan class="c">0</tspan><tspan class="n"> / </tspan><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="639"><tspan class="n">Crosshair shape</tspan></text>
+  <text xml:space="preserve" x="18" y="693"><tspan class="c">cl_crosshair_rgb</tspan><tspan class="n"> / </tspan><tspan class="c">cl_crosshair_alpha</tspan></text>
+  <text xml:space="preserve" x="348" y="693"><tspan class="n">– / </tspan><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="693"><tspan class="n">Crosshair color and opacity</tspan></text>
+  <text xml:space="preserve" x="18" y="727"><tspan class="c">cl_crosshair_t</tspan><tspan class="n"> / </tspan><tspan class="c">cl_crosshair_recoil</tspan><tspan class="n"> /</tspan></text>
+  <text xml:space="preserve" x="18" y="747"><tspan class="c">cl_crosshair_sniper</tspan></text>
+  <text xml:space="preserve" x="348" y="727"><tspan class="c">0</tspan><tspan class="n"> / </tspan><tspan class="c">1</tspan><tspan class="n"> / </tspan><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="727"><tspan class="n">Crosshair behavior</tspan></text>
+  <text xml:space="preserve" x="18" y="781"><tspan class="c">cl_autorate</tspan></text>
+  <text xml:space="preserve" x="348" y="781"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="781"><tspan class="n">Auto-rate</tspan></text>
+  <text xml:space="preserve" x="18" y="815"><tspan class="c">cl_disableradio</tspan></text>
+  <text xml:space="preserve" x="348" y="815"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="815"><tspan class="n">Disable radio</tspan></text>
+  <text xml:space="preserve" x="18" y="849"><tspan class="c">cl_hideamxx</tspan></text>
+  <text xml:space="preserve" x="348" y="849"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="849"><tspan class="n">Hide AMXX texts</tspan></text>
+  <text xml:space="preserve" x="18" y="883"><tspan class="c">cl_autorecord</tspan><tspan class="n"> / </tspan><tspan class="c">cl_autorecord_delete</tspan></text>
+  <text xml:space="preserve" x="348" y="883"><tspan class="c">0</tspan><tspan class="n"> / </tspan><tspan class="c">30</tspan></text>
+  <text xml:space="preserve" x="518" y="883"><tspan class="n">Auto-record demos, and after how many days</tspan></text>
+  <text xml:space="preserve" x="518" y="903"><tspan class="n">they go (</tspan><tspan class="c">0</tspan><tspan class="n"> never)</tspan></text>
+  <text xml:space="preserve" x="18" y="937"><tspan class="c">hud_chat_window</tspan></text>
+  <text xml:space="preserve" x="348" y="937"><tspan class="c">1</tspan></text>
+  <text xml:space="preserve" x="518" y="937"><tspan class="n">The chat window</tspan></text>
+  <text xml:space="preserve" x="18" y="971"><tspan class="c">hud_download_info</tspan></text>
+  <text xml:space="preserve" x="348" y="971"><tspan class="c">1</tspan></text>
+  <text xml:space="preserve" x="518" y="971"><tspan class="n">The download counter</tspan></text>
+  <text xml:space="preserve" x="18" y="1005"><tspan class="c">hud_tier</tspan></text>
+  <text xml:space="preserve" x="348" y="1005"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="1005"><tspan class="n">HUD sprites: </tspan><tspan class="c">0</tspan><tspan class="n"> by resolution, or </tspan><tspan class="c">640</tspan><tspan class="n">, </tspan><tspan class="c">1280</tspan><tspan class="n">, </tspan><tspan class="c">3840</tspan></text>
+  <text xml:space="preserve" x="18" y="1039"><tspan class="c">viewmodel_fov</tspan></text>
+  <text xml:space="preserve" x="348" y="1039"><tspan class="c">90</tspan></text>
+  <text xml:space="preserve" x="518" y="1039"><tspan class="n">The weapon's field of view</tspan></text>
+  <text xml:space="preserve" x="18" y="1073"><tspan class="c">viewmodel_x</tspan><tspan class="n"> / </tspan><tspan class="c">viewmodel_y</tspan><tspan class="n"> / </tspan><tspan class="c">viewmodel_z</tspan></text>
+  <text xml:space="preserve" x="348" y="1073"><tspan class="c">0</tspan></text>
+  <text xml:space="preserve" x="518" y="1073"><tspan class="n">The weapon's position</tspan></text>
+</svg>

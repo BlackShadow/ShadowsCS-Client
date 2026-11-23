@@ -1,0 +1,13 @@
+# build output
+bin/
+.vs/
+*.vcxproj.user
+
+__pycache__/
+
+# the HUD pictures' working files (tools/handvec makes and reads them; kept on disk only)
+art/hud/
+
+# the scripts that make the game files and the README pictures, and the release archives (kept on disk only)
+tools/
+release/

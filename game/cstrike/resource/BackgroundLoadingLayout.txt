@@ -1,0 +1,3 @@
+resolution	1	1
+
+gfx/shadows/black.tga		scaled		0	0

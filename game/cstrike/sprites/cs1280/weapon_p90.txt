@@ -1,0 +1,6 @@
+5
+weapon	1280	cs1280/hud12	0	0	340	90
+weapon_s	1280	cs1280/hud13	0	0	340	90
+ammo	1280	cs1280/hud7	240	192	48	48
+crosshair	1280	cs1280/crosshairs	48	0	48	48
+autoaim	1280	cs1280/crosshairs	0	144	48	48

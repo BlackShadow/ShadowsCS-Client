@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 290" width="880" height="290" role="img">
+  <style>
+    text { font-family: Verdana, Tahoma, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #d8ded3; }
+    .n { fill: #d8ded3; }
+    .b { fill: #f2f5ee; font-weight: bold; }
+    .c { fill: #c4b550; font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', Menlo, monospace; font-size: 13px; }
+    .h { fill: #c4b550; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="289" fill="#4c5844" stroke="#282e22"/>
+  <path d="M1.5 288.5 V1.5 H878.5" fill="none" stroke="#889180"/>
+  <rect x="5.5" y="5.5" width="869" height="279" fill="#3e4637" stroke="#282e22"/>
+  <path d="M874.5 6 V284.5 H6" fill="none" stroke="#889180" stroke-opacity="0.55"/>
+  <rect x="6" y="108" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="108" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="142" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="196" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="196" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="230" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="6" width="868" height="28" fill="#4c5844"/>
+  <rect x="6" y="33" width="868" height="1" fill="#282e22"/>
+  <text class="h" x="18" y="24">OPTION</text>
+  <rect x="190.6" y="9" width="1" height="21" fill="#282e22"/><rect x="191.6" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="191.6" y="34" width="1" height="250" fill="#4c5844" fill-opacity="0.7"/>
+  <text class="h" x="203.6" y="24">WHAT IT DOES</text>
+  <text xml:space="preserve" x="18" y="55"><tspan class="b">Auto-rate</tspan></text>
+  <text xml:space="preserve" x="203.6" y="55"><tspan class="n">Sets </tspan><tspan class="c">rate</tspan><tspan class="n">, </tspan><tspan class="c">cl_updaterate</tspan><tspan class="n">, </tspan><tspan class="c">cl_cmdrate</tspan><tspan class="n">, </tspan><tspan class="c">cl_cmdbackup</tspan><tspan class="n"> and </tspan><tspan class="c">ex_interp</tspan><tspan class="n"> for the server you are on,</tspan></text>
+  <text xml:space="preserve" x="203.6" y="75"><tspan class="n">and backs off when the line loses packets. A readout shows ping, jitter, loss, updates</tspan></text>
+  <text xml:space="preserve" x="203.6" y="95"><tspan class="n">and fps live. Your own settings come back when you switch it off.</tspan></text>
+  <text xml:space="preserve" x="18" y="129"><tspan class="b">Disable</tspan><tspan class="n"> </tspan><tspan class="b">radio</tspan></text>
+  <text xml:space="preserve" x="203.6" y="129"><tspan class="n">No radio sounds or radio text.</tspan></text>
+  <text xml:space="preserve" x="18" y="163"><tspan class="b">Hide</tspan><tspan class="n"> </tspan><tspan class="b">AMXX</tspan><tspan class="n"> </tspan><tspan class="b">texts</tspan></text>
+  <text xml:space="preserve" x="203.6" y="163"><tspan class="n">Hides server plugins' adverts, repeated notices and info boards. Replies to something</tspan></text>
+  <text xml:space="preserve" x="203.6" y="183"><tspan class="n">you asked stay.</tspan></text>
+  <text xml:space="preserve" x="18" y="217"><tspan class="b">Auto-record</tspan><tspan class="n"> </tspan><tspan class="b">demos</tspan></text>
+  <text xml:space="preserve" x="203.6" y="217"><tspan class="n">Records a demo of every map on its own, named by date and server.</tspan></text>
+  <text xml:space="preserve" x="18" y="251"><tspan class="b">Auto-delete</tspan></text>
+  <text xml:space="preserve" x="203.6" y="251"><tspan class="n">Removes auto-recorded demos older than 5, 15, 30 or 60 days. Your own recordings</tspan></text>
+  <text xml:space="preserve" x="203.6" y="271"><tspan class="n">are never touched.</tspan></text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 318" width="880" height="318" role="img">
+  <style>
+    text { font-family: Verdana, Tahoma, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #d8ded3; }
+    .n { fill: #d8ded3; }
+    .b { fill: #f2f5ee; font-weight: bold; }
+    .c { fill: #c4b550; font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', Menlo, monospace; font-size: 13px; }
+    .h { fill: #c4b550; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="317" fill="#4c5844" stroke="#282e22"/>
+  <path d="M1.5 316.5 V1.5 H878.5" fill="none" stroke="#889180"/>
+  <rect x="5.5" y="5.5" width="869" height="307" fill="#3e4637" stroke="#282e22"/>
+  <path d="M874.5 6 V312.5 H6" fill="none" stroke="#889180" stroke-opacity="0.55"/>
+  <rect x="6" y="88" width="868" height="54" fill="#434c3b"/>
+  <rect x="6" y="88" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="142" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="176" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="176" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="210" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="244" width="868" height="34" fill="#434c3b"/>
+  <rect x="6" y="244" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="278" width="868" height="1" fill="#4c5844"/>
+  <rect x="6" y="6" width="868" height="28" fill="#4c5844"/>
+  <rect x="6" y="33" width="868" height="1" fill="#282e22"/>
+  <text class="h" x="18" y="24">OPTION</text>
+  <rect x="178.0" y="9" width="1" height="21" fill="#282e22"/><rect x="179.0" y="9" width="1" height="21" fill="#889180"/>
+  <rect x="179.0" y="34" width="1" height="278" fill="#4c5844" fill-opacity="0.7"/>
+  <text class="h" x="191.0" y="24">WHAT IT DOES</text>
+  <text xml:space="preserve" x="18" y="55"><tspan class="b">HUD</tspan><tspan class="n"> </tspan><tspan class="b">color</tspan></text>
+  <text xml:space="preserve" x="191.0" y="55"><tspan class="n">Orange, white, red, green, yellow, cyan, crimson, or the animated </tspan><tspan class="c">Rainbow</tspan><tspan class="n">, </tspan><tspan class="c">Christmas</tspan><tspan class="n"> and</tspan></text>
+  <text xml:space="preserve" x="191.0" y="75"><tspan class="c">Dynamic</tspan><tspan class="n"> (health and money colored by how much you have).</tspan></text>
+  <text xml:space="preserve" x="18" y="109"><tspan class="b">Menu</tspan><tspan class="n"> </tspan><tspan class="b">background</tspan></text>
+  <text xml:space="preserve" x="191.0" y="109"><tspan class="c">Original</tspan><tspan class="n">, </tspan><tspan class="c">Beta</tspan><tspan class="n"> or </tspan><tspan class="c">Retail</tspan><tspan class="n"> artwork behind the main menu, or </tspan><tspan class="c">Auto</tspan><tspan class="n">, which goes round all</tspan></text>
+  <text xml:space="preserve" x="191.0" y="129"><tspan class="n">three.</tspan></text>
+  <text xml:space="preserve" x="18" y="163"><tspan class="b">Font</tspan><tspan class="n"> </tspan><tspan class="b">style</tspan></text>
+  <text xml:space="preserve" x="191.0" y="163"><tspan class="c">WON</tspan><tspan class="n"> puts the menus in CS 1.5's fonts and the chat in the old engine's lettering.</tspan></text>
+  <text xml:space="preserve" x="18" y="197"><tspan class="b">Weather</tspan></text>
+  <text xml:space="preserve" x="191.0" y="197"><tspan class="n">Rain or snow on any map, outdoors.</tspan></text>
+  <text xml:space="preserve" x="18" y="231"><tspan class="b">Bobbing</tspan><tspan class="n"> </tspan><tspan class="b">style</tspan></text>
+  <text xml:space="preserve" x="191.0" y="231"><tspan class="n">The weapon's bob as in WON Half-Life, as in the Steam versions, or as in Source.</tspan></text>
+  <text xml:space="preserve" x="18" y="265"><tspan class="b">No</tspan><tspan class="n"> </tspan><tspan class="b">sky</tspan></text>
+  <text xml:space="preserve" x="191.0" y="265"><tspan class="n">Draws the sky solid black.</tspan></text>
+  <text xml:space="preserve" x="18" y="299"><tspan class="b">Stretched</tspan><tspan class="n"> </tspan><tspan class="b">4:3</tspan></text>
+  <text xml:space="preserve" x="191.0" y="299"><tspan class="n">The 4:3 stretched look on a 16:9 screen.</tspan></text>
+</svg>

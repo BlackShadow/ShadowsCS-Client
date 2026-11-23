@@ -1,0 +1,2 @@
+1
+crosshair	1280	cs1280/crosshairs	48	0	48	48
